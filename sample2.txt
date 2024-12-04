@@ -1,1 +1,2 @@
 This is sample 2 file
+But added new line now.
